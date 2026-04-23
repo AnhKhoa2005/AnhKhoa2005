@@ -74,24 +74,22 @@ I'm a passionate Game Developer who creates engaging 2D and 3D games with exciti
 ## 🎮 My Games
 
 ### 🎯 Super Shooter
-**A fast-paced 3D action shooter game with exciting combat mechanics**
+**Super Shoot is a real-time arena tank shooting game where players must move and aim accurately to take down opponents. In each match, players control the tank, rotate the turret with the mouse, take advantage of the right timing, and utilize weapon items that appear on the map to change the outcome. Besides attacking, players need to dodge bullets, maintain a safe position, and choose the right time to engage to avoid continuous kills. The ultimate goal is to accumulate the highest kill score before time runs out.**
 
 - **Language**: C# (Unity)
 - **Platform**: Windows, Android
-- **Features**: Real-time action gameplay, Multiple weapon systems, AI enemy waves, Visual effects
 - **Status**: ✅ Released
 
 🔗 [View Repository](https://github.com/AnhKhoa2005/Super-Shooter) | [Download Release](https://github.com/AnhKhoa2005/Super-Shooter/releases)
 
 ---
 
-### 🏗️ Tower Defense Game
-**Strategic gameplay with tower building and resource management mechanics**
+### 🏗️ Island In The Clouds
+**Island In The Clouds is a tower defense game set on an island in the clouds. In the game, players choose and place towers in construction locations, upgrade tower stats, manage coins, and adjust tactics to block increasingly difficult waves of monsters in each phase. The goal is to protect the main base until the end of the entire attack wave to win.**
 
 - **Language**: C# (Unity)
-- **Platform**: Windows, Android (In Development)
-- **Features**: Tower building system, Wave-based enemies, Resource management, Beautiful UI design
-- **Status**: 🚧 In Development
+- **Platform**: Windows, Android
+- **Status**: ✅ Released
 
 🔗 [View Repository](https://github.com/AnhKhoa2005/Island-In-The-Clouds) | [Download Release](https://github.com/AnhKhoa2005/Island-In-The-Clouds/releases)
 
