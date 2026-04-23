@@ -15,6 +15,19 @@ I'm a passionate Game Developer who creates engaging 2D and 3D games with exciti
 
 ---
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xxxxx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhkhoa@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anhkhoa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anhkhoa)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -32,12 +45,11 @@ I'm a passionate Game Developer who creates engaging 2D and 3D games with exciti
 
 ### **Backend & Database**
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Game Services & Networking**
 ![Photon Fusion](https://img.shields.io/badge/Photon%20Fusion-2E2E2E?style=for-the-badge)
 ![PlayFab](https://img.shields.io/badge/PlayFab-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-FF6B35?style=for-the-badge)
 
 ### **Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,7 +62,7 @@ I'm a passionate Game Developer who creates engaging 2D and 3D games with exciti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnhKhoa2005&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnhKhoa2005&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -93,19 +105,6 @@ I'm a passionate Game Developer who creates engaging 2D and 3D games with exciti
 - **Status**: 🚧 In Development
 
 🔗 [View Repository](https://github.com/AnhKhoa2005/GAM301_Assignment)
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xxxxx)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhkhoa@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anhkhoa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anhkhoa)
-
-</div>
 
 ---
 
